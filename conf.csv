@@ -1,0 +1,7 @@
+type,user,cnt,st,et
+Email,U1,India,19:00:00,21:00:00
+SMS,U1,US,10:00:00,13:00:00
+Email,U1,UK,13:00:00,16:00:00
+SMS,U2,India,12:00:00,12:30:00
+Email,U2,SRI LANKA,01:00:00,10:00:00
+Email,U2,India,19:00:00,21:30:00

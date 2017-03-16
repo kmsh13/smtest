@@ -1,0 +1,7 @@
+type,user,cnt,st,et,day
+Email,U1,India,19:00:00,21:00:00,Thursday and Friday
+SMS,U1,US,10:00:00,13:00:00,Monday and Wednesday
+Email,U1,UK,13:00:00,16:00:00,Tuesday and Saturday
+SMS,U2,India,12:00:00,12:30:00,Friday and Sunday
+Email,U2,SRI LANKA,01:00:00,10:00:00,Wednesday and Friday
+Email,U2,India,19:00:00,21:30:00,Saturday and Sunday
